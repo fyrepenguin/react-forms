@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Tasks with tags",
+        "description": "",
+        "deadline": null,
+        "tags": [
+            {
+                "id": 1,
+                "name": "Important"
+            },
+            {
+                "id": 2,
+                "name": "Work"
+            }
+        ],
+        "priority": false,
+        "image": "",
+        "completed": false,
+        "id": "6174b232-fa00-48ce-b53e-9742d6852663",
+        "createdAt": 1655044887962
+    },
+    {
+        "title": "Task with a deadline",
+        "description": "",
+        "deadline": "2025-06-08T18:30:00.000Z",
+        "tags": [],
+        "priority": false,
+        "image": "",
+        "completed": false,
+        "id": "957c8f10-35f1-4411-84ef-f51512689518",
+        "createdAt": 1655044840897
+    },
+    {
+        "title": "Finished task",
+        "description": "",
+        "deadline": null,
+        "tags": [],
+        "priority": false,
+        "image": "",
+        "completed": true,
+        "id": "2d147736-62d7-4062-981e-5294e91f67c6",
+        "createdAt": 1655044829357
+    },
+    {
+        "title": "Priority task",
+        "description": "",
+        "deadline": null,
+        "tags": [],
+        "priority": true,
+        "image": "",
+        "completed": false,
+        "id": "c2c472f8-5bd8-4764-a60d-8bbc85b9e024",
+        "createdAt": 1655044004746
+    },
+    {
+        "title": "Overdue task",
+        "description": "",
+        "deadline": "2022-06-05T18:30:00.000Z",
+        "tags": [],
+        "priority": false,
+        "image": "",
+        "completed": false,
+        "id": "1ecc30d4-dd2f-48d0-823c-4a090b7b128c",
+        "createdAt": 1655044001113
+    },
+    {
+        "title": "Normal Task",
+        "description": "",
+        "deadline": null,
+        "tags": [],
+        "priority": false,
+        "image": "",
+        "completed": false,
+        "id": "601b3842-50a7-4f8f-ae6f-0a595a55133b",
+        "createdAt": 1655043995349
+    }
+]

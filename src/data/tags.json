@@ -1,0 +1,14 @@
+[
+  {
+    "name":"Important",
+    "id":1
+  },
+  {
+    "name":"Work",
+    "id":2
+  },
+  {
+    "name":"Personal",
+    "id":3
+  }
+]
